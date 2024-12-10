@@ -1,6 +1,9 @@
 export const publicRoutes: string[] = [
   "/",
   "/verify",
+  "/not-found",
+  "/product",
+  "/product/:productId"
 ];
 
 export const authRoutes: string[] = [

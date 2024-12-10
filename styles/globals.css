@@ -79,7 +79,7 @@ body,
   body {
     @apply bg-background text-foreground;
   }
-    /*
+  /*
   .scrollbar-hide::-webkit-scrollbar {
     display: none;
   }
@@ -89,5 +89,32 @@ body,
     scrollbar-width: none;
   }
   */
+  .c-Tukmu .card-price {
+    display: inline-block;
+    width: auto;
+    height: 25px;
+    background-color: rgb(249, 123, 83);
+    border-radius: 3px 4px 4px 3px;
+    border-left: 1px solid rgb(249, 123, 83);
+    margin-left: 15px;
+    position: relative;
+    color: white;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 3px 7px;
+  }
+  .centered-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
+.hideScrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.hideScrollbar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}
