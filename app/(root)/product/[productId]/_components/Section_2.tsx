@@ -51,7 +51,7 @@ const Section_2 = () => {
                       cy="28"
                       r="28"
                       fill="#fff"
-                      fill-opacity="0.5"
+                      fillOpacity="0.5"
                     ></circle>
                     <circle cx="27.999" cy="28" r="25.415" fill="#fff"></circle>
                     <path
@@ -88,7 +88,7 @@ const Section_2 = () => {
                   <svg
                     stroke="currentColor"
                     fill="currentColor"
-                    stroke-width="0"
+                    strokeWidth="0"
                     viewBox="0 0 512 512"
                     color="white"
                     style={{ color: "white" }}
@@ -103,7 +103,7 @@ const Section_2 = () => {
                   <svg
                     stroke="currentColor"
                     fill="currentColor"
-                    stroke-width="0"
+                    strokeWidth="0"
                     viewBox="0 0 512 512"
                     color="white"
                     style={{ color: "white" }}

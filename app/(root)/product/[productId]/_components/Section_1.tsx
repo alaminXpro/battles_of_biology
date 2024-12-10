@@ -306,10 +306,10 @@ const Section_1 = () => {
                     <svg
                       stroke="currentColor"
                       fill="none"
-                      stroke-width="2"
+                      strokeWidth="2"
                       viewBox="0 0 24 24"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                       height="18"
                       width="18"
                       xmlns="http://www.w3.org/2000/svg"
@@ -470,7 +470,7 @@ const Section_1 = () => {
                             <svg
                               stroke="currentColor"
                               fill="currentColor"
-                              stroke-width="0"
+                              strokeWidth="0"
                               viewBox="0 0 20 20"
                               aria-hidden="true"
                               className="mr-1 mt-[2px]"
@@ -496,7 +496,7 @@ const Section_1 = () => {
                             <svg
                               stroke="currentColor"
                               fill="currentColor"
-                              stroke-width="0"
+                              strokeWidth="0"
                               viewBox="0 0 20 20"
                               aria-hidden="true"
                               className="mr-1 mt-[2px]"
@@ -522,7 +522,7 @@ const Section_1 = () => {
                             <svg
                               stroke="currentColor"
                               fill="currentColor"
-                              stroke-width="0"
+                              strokeWidth="0"
                               viewBox="0 0 20 20"
                               aria-hidden="true"
                               className="mr-1 mt-[2px]"
@@ -546,7 +546,7 @@ const Section_1 = () => {
                             <svg
                               stroke="currentColor"
                               fill="currentColor"
-                              stroke-width="0"
+                              strokeWidth="0"
                               viewBox="0 0 20 20"
                               aria-hidden="true"
                               className="mr-1 mt-[2px]"
@@ -1916,10 +1916,10 @@ const Section_1 = () => {
                         <svg
                           stroke="currentColor"
                           fill="none"
-                          stroke-width="2"
+                          strokeWidth="2"
                           viewBox="0 0 24 24"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
                           height="18"
                           width="18"
                           xmlns="http://www.w3.org/2000/svg"
@@ -1954,16 +1954,16 @@ const Section_1 = () => {
                       >
                         <path
                           stroke="#1CAB55"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          stroke-width="2.223"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth="2.223"
                           d="M17.246 2.917a9.298 9.298 0 018.213 8.204M17.246 7.05a5.164 5.164 0 014.083 4.083"
                         ></path>
                         <path
                           stroke="#1CAB55"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          stroke-width="2.223"
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth="2.223"
                           d="M13.37 14.551c4.655 4.653 5.71-.73 8.673 2.231 2.857 2.856 4.5 3.428.88 7.047-.454.364-3.334 4.748-13.457-5.373C-.658 8.335 3.722 5.451 4.086 4.998c3.629-3.628 4.193-1.977 7.05.879 2.961 2.962-2.42 4.022 2.235 8.674z"
                           clipRule="evenodd"
                         ></path>
