@@ -129,7 +129,7 @@ const Hero = () => {
                 <div className="flex items-center justify-center gap-6">
                   <a
                     className="text-green hover:underline flex items-center gap-1"
-                    href=""
+                    href="/product/demo"
                   >
                     ফ্রি ক্লাস বুক করুন
                     <svg
@@ -277,7 +277,7 @@ const Hero = () => {
                       <a
                         className="w-[94px] flex-shrink-0 snap-start"
                         id="slide_#0"
-                        href=""
+                        href="/product/demo"
                       >
                         <div
                           className="undefined opacity-0 transition-opacity duration-300 ease-in-out"
@@ -301,7 +301,7 @@ const Hero = () => {
                       <a
                         className="w-[94px] flex-shrink-0 snap-start"
                         id="slide_#1"
-                        href=""
+                        href="/product/demo"
                       >
                         <div
                           className="undefined opacity-0 transition-opacity duration-300 ease-in-out"
@@ -325,7 +325,7 @@ const Hero = () => {
                       <a
                         className="w-[94px] flex-shrink-0 snap-start"
                         id="slide_#2"
-                        href=""
+                        href="/product/demo"
                       >
                         <div
                           className="undefined opacity-0 transition-opacity duration-300 ease-in-out"
@@ -349,7 +349,7 @@ const Hero = () => {
                       <a
                         className="w-[94px] flex-shrink-0 snap-start"
                         id="slide_#3"
-                        href=""
+                        href="/product/demo"
                       >
                         <div
                           className="undefined opacity-0 transition-opacity duration-300 ease-in-out"
@@ -373,7 +373,7 @@ const Hero = () => {
                       <a
                         className="w-[94px] flex-shrink-0 snap-start"
                         id="slide_#4"
-                        href=""
+                        href="/product/demo"
                       >
                         <div
                           className="undefined opacity-0 transition-opacity duration-300 ease-in-out"
@@ -397,7 +397,7 @@ const Hero = () => {
                       <a
                         className="w-[94px] flex-shrink-0 snap-start"
                         id="slide_#5"
-                        href=""
+                        href="/product/demo"
                       >
                         <div
                           className="undefined opacity-0 transition-opacity duration-300 ease-in-out"
@@ -421,7 +421,7 @@ const Hero = () => {
                       <a
                         className="w-[94px] flex-shrink-0 snap-start"
                         id="slide_#6"
-                        href=""
+                        href="/product/demo"
                       >
                         <div
                           className="undefined opacity-0 transition-opacity duration-300 ease-in-out"
@@ -445,7 +445,7 @@ const Hero = () => {
                       <a
                         className="w-[94px] flex-shrink-0 snap-start"
                         id="slide_#7"
-                        href=""
+                        href="/product/demo"
                       >
                         <div
                           className="undefined opacity-0 transition-opacity duration-300 ease-in-out"
@@ -471,7 +471,7 @@ const Hero = () => {
                 </div>
                 <a
                   className="text-green hover:underline flex justify-center items-center gap-1"
-                  href=""
+                  href="/product/demo"
                 >
                   ৩০+ ফ্রি কোর্সে এনরোল হতে ক্লিক করুন
                   <svg
@@ -623,7 +623,7 @@ const Hero = () => {
             <div className="flex flex-col md:flex-row justify-center gap-4 mb-6">
               <a
                 className="flex flex-1 gap-3 items-center rounded-2xl px-4 py-3 backdrop-blur-sm md:max-w-[33.33%]"
-                href=""
+                href="/product/demo"
                 style={{
                   background: "rgba(255, 255, 255, 0.1)",
                   border: "1px solid rgba(255, 255, 255, 0.1)",
@@ -674,7 +674,7 @@ const Hero = () => {
               </a>
               <a
                 className="flex flex-1 gap-3 items-center rounded-2xl px-4 py-3 backdrop-blur-sm md:max-w-[33.33%]"
-                href=""
+                href="/product/demo"
                 style={{
                   background: "rgba(255, 255, 255, 0.1)",
                   border: "1px solid rgba(255, 255, 255, 0.1)",
@@ -725,7 +725,7 @@ const Hero = () => {
               </a>
               <a
                 className="flex flex-1 gap-3 items-center rounded-2xl px-4 py-3 backdrop-blur-sm md:max-w-[33.33%]"
-                href=""
+                href="/product/demo"
                 style={{
                   background: "rgba(255, 255, 255, 0.1)",
                   border: "1px solid rgba(255, 255, 255, 0.1)",
@@ -779,7 +779,7 @@ const Hero = () => {
             <div className="flex items-center justify-center gap-6">
               <a
                 className="text-green hover:underline flex items-center gap-1"
-                href=""
+                href="/product/demo"
               >
                 ফ্রি ক্লাস বুক করুন
                 <svg
@@ -796,7 +796,7 @@ const Hero = () => {
               </a>
               <a
                 className="text-green hover:underline flex items-center gap-1"
-                href=""
+                href="/product/demo"
               >
                 বিস্তারিত জানুন
                 <svg
