@@ -1,36 +1,95 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 10 Minute School Clone
+<img src="https://repository-images.githubusercontent.com/900930451/517a8bbf-d884-4f14-b973-bfc9e3b739ee"/>
+A full-stack web application replicating the front page and product page UI of the popular **10 Minute School** platform. This project demonstrates modern web development practices with a focus on scalability, authentication, and responsive design.
 
-## Getting Started
+---
 
-First, run the development server:
+## 🚀 Live Demo
+👉 [battles-of-biology.vercel.app](https://battles-of-biology.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tech Stack
+- **Frontend:**
+  - React
+  - Next.js
+  - Tailwind CSS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Backend:**
+  - Prisma ORM
+  - PostgreSQL
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Authentication:**
+  - Auth.js (Google, GitHub, and Credentials Sign-In)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 💡 Features
+- Fully responsive UI built with Tailwind CSS
+- Secure authentication with Google, GitHub, and Credentials sign-in options
+- Database management using Prisma and PostgreSQL
+- Clean and maintainable codebase
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🚧 Setup and Installation
 
-## Deploy on Vercel
+### Prerequisites
+- Node.js >= 16.x
+- PostgreSQL
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Installation Steps
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/alaminXpro/battles_of_biology.git
+   cd battles_of_biology
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Set up environment variables:
+   Copy the `.env.example` file to `.env` and update the values accordingly.
+   ```bash
+   cp .env.example .env
+   ```
+
+4. Apply Prisma migrations:
+   ```bash
+   npm run prisma:update
+   ```
+
+5. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+6. Open your browser and navigate to:
+   [http://localhost:3000](http://localhost:3000)
+
+---
+
+## 📜 Scripts
+- **`npm run dev`**: Starts the development server
+- **`npm run build`**: Builds the project for production
+- **`npm run start`**: Runs the production build
+- **`npm run prisma:update`**: Generates Prisma client and applies database changes
+- **`npm run prisma:clean`**: Resets migrations and pushes changes
+
+---
+
+## 🙌 Contributions
+Contributions, issues, and feature requests are welcome! Feel free to open a PR or issue.
+
+---
+
+## 📝 License
+This project is licensed under the MIT License.
+
+---
+
+### Author
+Developed by **[MD. AL AMIN](https://linkedin.com/in/alaminxpro/)**
